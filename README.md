@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 Hi, I'm Sushmitha Katherine Jayaraj!
+#  I'm Sushmitha Katherine Jayaraj!
 
 ## 🚀 About Me
 I'm an aspiring Data Scientist and Analytics Engineer, passionate about transforming data into impactful insights.  
