@@ -2,8 +2,8 @@
 
 #  I'm Sushmitha Katherine Jayaraj!
 
-## 🚀 About Me
-I'm an aspiring Data Scientist and Analytics Engineer, passionate about transforming data into impactful insights.  
+##  About Me
+I'm an aspiring Data Scientist and Analytics Engineer, I'm passionate about transforming data into impactful insights.  
 With a strong background in data engineering, machine learning, and cloud technologies, I enjoy building intelligent solutions that are scalable, meaningful, and insight-driven.
 
 ---
