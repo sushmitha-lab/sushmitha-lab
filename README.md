@@ -10,6 +10,16 @@ With a strong background in data engineering, machine learning, and cloud techno
 
 ## 💼 Work Experience
 
+### 💡 Data Analyst | Dell Technologies
+
+- Analyzed large-scale manufacturing and operational datasets to identify system performance issues, failure patterns, and process inefficiencies.
+- Developed complex SQL queries and Python-based analyses to support root cause investigations and data-driven decision making.
+- Designed and built Power BI dashboards to track key operational metrics, visualize trends, and communicate insights to cross-functional stakeholders.
+- Collaborated with engineering and operations teams to translate analytical findings into actionable process improvements and operational recommendations.
+- Supported continuous improvement initiatives by monitoring trends, anomalies, and operational risk indicators across systems.
+- Gained exposure to Agentic AI concepts, focusing on autonomous decision workflows, intelligent agents, and AI-driven operational insights.
+
+
 ### 💡 Data Analyst - Consultant | Deloitte
 - Developed and optimized scalable data pipelines using **Python, PySpark, and SQL**.
 - Deployed robust pipelines in production environments and improved data flow efficiency.
