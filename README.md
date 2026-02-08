@@ -54,8 +54,6 @@ Relevant Courses: ML, SQL & Data Warehousing, NLP with Python
 **Concepts**: Classification, Regression, Clustering, Transformers, A/B Testing
 
 ---
----
-
 ## Licenses & Certifications
 
 - **Python (Basic)** – HackerRank  
