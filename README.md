@@ -8,9 +8,9 @@ With a strong background in data engineering, machine learning, and cloud techno
 
 ---
 
-## 💼 Work Experience
+## Work Experience
 
-### 💡 Data Analyst | Dell Technologies
+###  Data Analyst | Dell Technologies
 
 - Analyzed large-scale manufacturing and operational datasets to identify system performance issues, failure patterns, and process inefficiencies.
 - Developed complex SQL queries and Python-based analyses to support root cause investigations and data-driven decision making.
@@ -20,7 +20,7 @@ With a strong background in data engineering, machine learning, and cloud techno
 - Gained exposure to Agentic AI concepts, focusing on autonomous decision workflows, intelligent agents, and AI-driven operational insights.
 
 
-### 💡 Data Analyst - Consultant | Deloitte
+### Data Analyst - Consultant | Deloitte
 - Developed and optimized scalable data pipelines using **Python, PySpark, and SQL**.
 - Deployed robust pipelines in production environments and improved data flow efficiency.
 - Leveraged **Data Science** techniques to generate actionable insights.
@@ -28,24 +28,24 @@ With a strong background in data engineering, machine learning, and cloud techno
 - 🏆 **SPOT Award** – May 2023  
 - 🏆 **Applause Award** – December 2023
 
-### 🔍 Risk Analyst | Amazon
+### Risk Analyst | Amazon
 - Investigated transaction risks using analytical techniques and real-time tools.
 - Improved fraud detection and ensured compliance with operational standards.
 
 ---
 
-## 🎓 Education
+## Education
 
 **Northeastern University**, Boston, MA  
-📚 Master’s in Analytics — *Expected Sept 2024*  
+Master’s in Analytics — *Expected Sept 2024*  
 Relevant Courses: ML, SQL & Data Warehousing, NLP with Python  
 
 **The Oxford College of Engineering**, Bangalore  
-🎓 B.E. in Information Science Engineering
+ B.E. in Information Science Engineering
 
 ---
 
-## 💻 Technical Skills
+## Technical Skills
 
 **Languages**: Python, SQL, R, Java, PySpark  
 **Databases**: MySQL, MongoDB, Snowflake, Databricks  
@@ -56,7 +56,7 @@ Relevant Courses: ML, SQL & Data Warehousing, NLP with Python
 ---
 ---
 
-## 📜 Licenses & Certifications
+## Licenses & Certifications
 
 - **Python (Basic)** – HackerRank  
   *Issued: Apr 2025*  
