@@ -37,7 +37,7 @@ With a strong background in data engineering, machine learning, and cloud techno
 ## Education
 
 **Northeastern University**, Boston, MA  
-Master’s in Analytics — *Expected Sept 2024*  
+Master’s in Analytics — *June 2026*  
 Relevant Courses: ML, SQL & Data Warehousing, NLP with Python  
 
 **The Oxford College of Engineering**, Bangalore  
